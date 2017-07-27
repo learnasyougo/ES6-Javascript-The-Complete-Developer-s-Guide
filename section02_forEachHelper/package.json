@@ -1,0 +1,21 @@
+{
+  "name": "section02_foreachhelper",
+  "version": "1.0.0",
+  "description": "This is the tutorial you've been looking for to master ES6 Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "bootstrap": "^4.0.0-alpha.6",
+    "bootstrap-loader": "^2.1.0",
+    "postcss-loader": "^2.0.6",
+    "webpack": "^3.4.1"
+  }
+}
